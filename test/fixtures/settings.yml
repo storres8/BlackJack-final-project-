@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  card_style: 1
+  table_cloth_color: 1
+  pokerchip_style: 1
+
+two:
+  card_style: 1
+  table_cloth_color: 1
+  pokerchip_style: 1
